@@ -1,4 +1,4 @@
-# taobaopa
+# 淘宝爬虫
 cookie 是淘宝搜索页面的newwork下DOC的cookie,在网页登录状态下的cookie，使用py需要替换  
 goods 是搜索的商品，可自行替换  
 depth 是爬虫的页码  
